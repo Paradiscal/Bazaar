@@ -1,0 +1,12 @@
+Bazaar is a small content mod that aims to fill any gaps in vanilla.
+
+It currently is a small mod, but the content is polished and playable. It has many useful pieces of content, a new tier from night mobs, a slime rain spawner, 2 new quest fish, etc.
+
+I recommend using this in a modpack, as it is work in progress and minimal.
+
+Check out the mod post for more info and a link to our very own discord server, with spoilers and more!
+
+Changelog (Only includes the latest update):
+
+Balancing Changes
+Tier obtained from gloopheads now has an arrow and a grappling hook

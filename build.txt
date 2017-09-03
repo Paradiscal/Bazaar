@@ -1,0 +1,5 @@
+author = 5
+version = 0.7.3
+displayName = Bazaar
+homepage = https://forums.terraria.org/index.php?threads/bazaar-mod.59922/
+
